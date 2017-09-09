@@ -1,11 +1,5 @@
 /*
- * GenericList.java
- *
- * A definition of the List ADT that can store items of type int
- *
- * Later in the course we'll see how to implement a List that can
- * store items of an arbitrary type.
- *
+  A class given to us by our instructor which we were using at the time
  */
 
 public interface GenericList<G>
