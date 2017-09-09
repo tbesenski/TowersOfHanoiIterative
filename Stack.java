@@ -1,3 +1,7 @@
+
+//This is just a class given to us by our instructor which we were using at the time
+
+
 public class Stack<G>{
 	
 	
