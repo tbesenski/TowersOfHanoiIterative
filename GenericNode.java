@@ -1,21 +1,5 @@
 /*
- * GenericNode.java
- *
- * An implementation of a node class for a singly-linked list of integers.
- *
- * This implementation does not make the instance variables private because
- * Jason prefers to write things like:
- *
- *	n.next = null;
- *
- * Rather than:
- *
- *	n.setNext(null);
- *
- * In this course you are free to use whichever
- * method you find most comfortable.
- *
- * J. Corless, September 2016
+ A class given to us by our instructor, which we were using at the time
  */
 
 public class GenericNode<G>
